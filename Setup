@@ -1,4 +1,8 @@
------------------------------------------------------------------------------ SETUP -----------------------------------------------------------------------------------------------------------
+----------------------------------------------------- SETUP -----------------------------------------------------
 
 1st: Download the module using: https://capri-test-52618323.figma.site/
-2nd: Use: "RCOmmand:RegisterCommand()" if you want an command avaliable in RCommand.
+
+2nd: Use: "RCommand:RegisterCommand()" if you want an command avaliable in RCommand.
+
+3rd: Use "RCommand:RegisterBulitInCommands()" if you want an bulit in command avaliable in RCommand.
+
